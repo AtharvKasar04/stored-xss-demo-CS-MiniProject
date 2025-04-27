@@ -45,4 +45,4 @@ npm run start
 
 ---
 
-🚀 This project was built for a Cyber Security assignment to understand real-world web vulnerabilities.
+🚀 This project was built for a Cyber Security assignment (Mini Project) to understand real-world web vulnerabilities.
