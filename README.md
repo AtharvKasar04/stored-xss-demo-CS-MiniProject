@@ -17,6 +17,32 @@ This mini project demonstrates a **Stored Cross-Site Scripting (XSS)** vulnerabi
 - Stored XSS
 - Vulnerability Demonstration
 
+## 🛠️ Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/stored-xss-demo-CS-MiniProject.git
+cd stored-xss-demo-CS-MiniProject
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run the Vulnerable Version
+```bash
+npm run start
+```
+
+### 4. Go to the browser and visit 
+[https://localhost:3000](https://localhost:3000)
+
+### 5. Submit a comment like
+```html
+<script>alert("XSS Attack")</script>
+```
+
 ---
 
 🚀 This project was built for a Cyber Security assignment to understand real-world web vulnerabilities.
